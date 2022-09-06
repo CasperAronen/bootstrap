@@ -1,0 +1,4 @@
+{
+    "haeKaikki":["select title, description, release_year from film"],
+    "perusavain":"film_id"
+}
